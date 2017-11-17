@@ -2,11 +2,11 @@
     width: 940px;
     margin: 0 auto;
     background: white;
-    height: 1868px;
+    height: 700px;
     padding-top: 30px;
     box-sizing: border-box;
-    
 }
+
 .image {
     border-top: 4px solid #000;
     border-bottom: 1px solid #000;
@@ -14,18 +14,19 @@
     width: 1000px;
     height: 210px;
 }
+
 .header {
     font-size: 27px;
     font-family: sans-serif;
     margin-left: 10px;
-    
 }
+
 .company {
     font-family: sans-serif;
     font-size: 17px;
     margin-left: 10px;
-    
 }
+
 .chek {
     font-family: sans-serif;
     font-size: 27px;
@@ -33,62 +34,152 @@
     margin-top: 20px;
     color: black;
     text-decoration: none;
-    
-    
 }
+
 .textchek {
     font-family: sans-serif;
     font-size: 17px;
     margin-left: 10px;
     color: lightslategray
-
 }
+
 .author {
     font-size: 12px;
     font-family: sans-serif;
     color: darkgray;
     margin-left: 10px;
-    
+    text-decoration: none;
 }
+
 .rubrika {
     font-size: 12px;
     font-family: sans-serif;
     color: darkgray;
     margin-left: 10px;
-    
 }
+
 .newmagaz {
     font-family: sans-serif;
     font-size: 27px;
     margin-left: 10px;
     margin-top: 20px;
-    
 }
+
 .author2 {
-   font-size: 12px;
+    font-size: 12px;
     font-family: sans-serif;
     color: darkgray;
     margin-left: 10px;
 }
+
 .textnewmagaz {
-   font-family: sans-serif;
+    font-family: sans-serif;
     font-size: 17px;
     margin-left: 10px;
     color: lightslategray
 }
-.rubrikanewmagaz{
-   font-size: 12px;
+
+.rubrikanewmagaz {
+    font-size: 12px;
     font-family: sans-serif;
     color: darkgray;
     margin-left: 10px;
-     
 }
+
 .minuschek {
     color: black;
     text-decoration: none;
-    
 }
+
+.newmagazminus:hover {
+    color: red;
+    text-decoration: none;
+    transition: 2s;
+    font-family: fantasy;
+}
+
 .newmagazminus {
     color: black;
     text-decoration: none;
+}
+
+.minuschek:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+    
+        
+}
+
+.author3:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+}
+
+.author3 {
+    color: darkgray;
+}
+
+.admin {
+    color: darkgray;
+}
+
+.admin:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+}
+
+.rubrika2 {
+    color: darkgray;
+}
+
+.rubrika2:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+}
+
+.comment {
+    color: darkgray;
+}
+
+.comment:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+}
+
+.comment2 {
+    color: darkgray;
+}
+
+.comment2:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+}
+
+.rubrika3 {
+    color: darkgray;
+}
+
+.admin2 {
+    color: darkgray;
+}
+
+.rubrika3:hover {
+    color: red;
+    transition: 2s;
+    font-family: fantasy;
+}
+
+.admin2:hover {
+    color: red;
+    transition: 3s;
+    font-family: fantasy;
+}
+.primary {
+        
 }
