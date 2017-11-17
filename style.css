@@ -1,0 +1,94 @@
+.block {
+    width: 940px;
+    margin: 0 auto;
+    background: white;
+    height: 1868px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    
+}
+.image {
+    border-top: 4px solid #000;
+    border-bottom: 1px solid #000;
+    display: block;
+    width: 1000px;
+    height: 210px;
+}
+.header {
+    font-size: 27px;
+    font-family: sans-serif;
+    margin-left: 10px;
+    
+}
+.company {
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-left: 10px;
+    
+}
+.chek {
+    font-family: sans-serif;
+    font-size: 27px;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+    
+    
+}
+.textchek {
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-left: 10px;
+    color: lightslategray
+
+}
+.author {
+    font-size: 12px;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-left: 10px;
+    
+}
+.rubrika {
+    font-size: 12px;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-left: 10px;
+    
+}
+.newmagaz {
+    font-family: sans-serif;
+    font-size: 27px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.author2 {
+   font-size: 12px;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-left: 10px;
+}
+.textnewmagaz {
+   font-family: sans-serif;
+    font-size: 17px;
+    margin-left: 10px;
+    color: lightslategray
+}
+.rubrikanewmagaz{
+   font-size: 12px;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-left: 10px;
+     
+}
+.minuschek {
+    color: black;
+    text-decoration: none;
+    
+}
+.newmagazminus {
+    color: black;
+    text-decoration: none;
+}
